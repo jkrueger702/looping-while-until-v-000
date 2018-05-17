@@ -5,3 +5,5 @@ def using_until
      leviation_force += 1
    end
 end
+
+puts "You levitated the feather!"
